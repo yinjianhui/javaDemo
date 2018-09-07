@@ -26,5 +26,6 @@ public class Producer {
 				}
 		};
 		executor.execute(task);
+		//executor.shutdown();
 	}
 }

@@ -21,7 +21,7 @@ public class Consumer {
 						
 						Integer ele = queue.poll();
 						if (null == ele) {
-							System.out.println("é˜Ÿåˆ—ä¸ºç©ºã€‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã?‚ã??");
+							System.out.println("é˜Ÿåˆ—ä¸ºç©ºã€‚ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½?ï¿½ï¿½??");
 						}
 						
 					} catch (Exception e) {
@@ -32,7 +32,7 @@ public class Consumer {
 		};
 		
 		executor.execute(task);
-		
+		//executor.shutdown();
 	}
 	
 }
