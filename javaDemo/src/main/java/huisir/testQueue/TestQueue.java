@@ -1,9 +1,9 @@
-package net.shuzun.testQueue;
+package huisir.testQueue;
 
 import java.util.concurrent.LinkedBlockingQueue;
 
-import net.shuzun.testQueue.consumer.Consumer;
-import net.shuzun.testQueue.producer.Producer;
+import huisir.testQueue.consumer.Consumer;
+import huisir.testQueue.producer.Producer;
 
 public class TestQueue {
 	

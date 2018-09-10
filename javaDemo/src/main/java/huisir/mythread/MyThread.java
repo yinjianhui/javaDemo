@@ -1,4 +1,4 @@
-package se.mythread;
+package huisir.mythread;
 
 /**
  * 

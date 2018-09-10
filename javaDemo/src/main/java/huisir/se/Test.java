@@ -1,4 +1,4 @@
-package javaCode.se;
+package huisir.se;
 
 import java.lang.reflect.Type;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package net.shuzun.testQueue.producer;
+package huisir.testQueue.producer;
 
 import java.util.Queue;
 import java.util.concurrent.ExecutorService;

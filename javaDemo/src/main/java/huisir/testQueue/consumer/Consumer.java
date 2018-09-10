@@ -1,4 +1,4 @@
-package net.shuzun.testQueue.consumer;
+package huisir.testQueue.consumer;
 
 import java.util.Queue;
 import java.util.concurrent.ExecutorService;

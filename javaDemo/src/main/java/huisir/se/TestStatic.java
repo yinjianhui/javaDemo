@@ -1,4 +1,4 @@
-package javaCode.se;
+package huisir.se;
 
 public class TestStatic {
 
