@@ -2,6 +2,14 @@ package huisir.mythread.countdownlatch;
 
 public class OrderInfo {
 
+	public OrderInfo(CustomerInfo join, TenantInfo join2, DiscountInfo join3, FoodListInfo join4, OtherInfo join5) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public OrderInfo() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void setCustomerInfo(CustomerInfo customerInfo) {
 		// TODO Auto-generated method stub
 		
