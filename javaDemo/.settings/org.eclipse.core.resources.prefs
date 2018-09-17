@@ -1,5 +1,8 @@
 eclipse.preferences.version=1
+encoding//src/main/java/huisir/designmodel/mediator/Mediator.java=UTF-8
+encoding//src/main/java/huisir/designmodel/observer/Observerable.java=UTF-8
+encoding//src/main/java/huisir/designmodel/observer/User.java=UTF-8
+encoding//src/main/java/huisir/designmodel/observer/WechatServer.java=UTF-8
 encoding//src/main/java/huisir/mythread/MyThread.java=UTF-8
 encoding//src/main/java/huisir/reflect/TestClassObject.java=UTF-8
 encoding//src/main/java/huisir/testQueue/consumer/Consumer.java=UTF-8
-encoding/<project>=UTF-8
